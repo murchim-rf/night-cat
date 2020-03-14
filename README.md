@@ -1,6 +1,6 @@
 # <a href="https://murchim.ru/kototema/koshki_html/kot_html_css_svg_guljajushhij_nochju/2-1-0-2" target="_blank">Кот html & css & svg гуляющий ночью</a>
 <img src="https://murchim.ru/_ld/0/23469709.jpg" alt="ночной котик" style="text-center" />
-# Код установки
+<h2>Код установки</h2>
 <pre><code>
 &lt;style&gt;
  html{
