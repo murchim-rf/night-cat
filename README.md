@@ -2,7 +2,7 @@
 <a href="https://murchim.ru/kototema/koshki_html/kot_html_css_svg_guljajushhij_nochju/2-1-0-2" target="_blank">Ночной котик прогуливается по городу</a>
 ## code
 <pre><code>
-<style>
+&lt;style&gt;
  html{
  font-size:20px;
  margin:0;
@@ -105,12 +105,12 @@
  from { background-position: 0 0; }
  to { background-position: -8120px 0; }
  }
-</style>
-<div id="marco">
- <div id="cielo"></div>
- <div id="luna"></div>
- <div id="gato"></div>
- <div id="muro"></div>
- <div id="edificios"></div>
-</div>  
+&lt;/style&gt;
+&lt;div id="marco"&gt;
+ &lt;div id="cielo"&gt;&lt;/div&gt;
+ &lt;div id="luna"&gt;&lt;/div&gt;
+ &lt;div id="gato"&gt;&lt;/div&gt;
+ &lt;div id="muro"&gt;&lt;/div&gt;
+ &lt;div id="edificios"&gt;&lt;/div&gt;
+&lt;/div&gt;  
 </code></pre>  
