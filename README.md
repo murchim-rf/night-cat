@@ -1,7 +1,7 @@
 # night-cat
 <a href="https://murchim.ru/kototema/koshki_html/kot_html_css_svg_guljajushhij_nochju/2-1-0-2" target="_blank">Ночной котик прогуливается по городу</a>
 ## code
-<code>
+<pre><code>
 <style>
  html{
  font-size:20px;
@@ -113,4 +113,4 @@
  <div id="muro"></div>
  <div id="edificios"></div>
 </div>  
-</code>  
+</code></pre>  
