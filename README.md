@@ -1,5 +1,5 @@
-# <a href="https://murchim.ru/kototema/koshki_html/kot_html_css_svg_guljajushhij_nochju/2-1-0-2" target="_blank">Кот html & css & svg гуляющий ночью</a>
-<img src="https://murchim.ru/_ld/0/23469709.jpg" alt="ночной котик" style="text-center" />
+# <a href="https://murchimka.ru/kototema/koshki_html/kot_html_css_svg_guljajushhij_nochju/2-1-0-2" target="_blank">Кот html & css & svg гуляющий ночью</a>
+<img src="https://murchimka.ru/_ld/0/23469709.jpg" alt="ночной котик" style="text-center" />
 <h2>Код установки</h2>
 <pre><code>
 &lt;style&gt;
@@ -27,7 +27,7 @@
  margin-top: 2em;
  }
  #edificios{
- background: url('https://murchim.ru/koto-tema/images/2020/gk/doma.svg');
+ background: url('https://murchimka.ru/koto-tema/images/2020/gk/doma.svg');
  height: 500px; 
  width: 1325px;
  z-index: -10;
@@ -78,7 +78,7 @@
  bottom:0px; 
  }
  #gato{
- background: url('https://murchim.ru/koto-tema/images/2020/gk/kot.svg');
+ background: url('https://murchimka.ru/koto-tema/images/2020/gk/kot.svg');
  height: 297px; 
  width: 507.5px;
  margin-top: 2em;
